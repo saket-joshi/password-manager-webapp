@@ -1,0 +1,15 @@
+{
+  "name": "password-manager-webapp",
+  "version": "1.0.0",
+  "description": "SyntaxSofts Password Manager webapp",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saket Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {}
+}

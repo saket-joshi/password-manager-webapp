@@ -1,0 +1,29 @@
+{
+  "name": "password-manager-webapp",
+  "version": "1.0.0",
+  "authors": [
+    "Saket Joshi"
+  ],
+  "description": "SyntaxSofts Password Manager webapp",
+  "main": "web.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-cookies": "~1.4.9",
+    "angular-messages": "~1.4.9",
+    "angular-resource": "~1.4.9",
+    "angular-route": "~1.4.9",
+    "angular": "~1.4.9",
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0"
+  }
+}
